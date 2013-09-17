@@ -20,3 +20,32 @@ body {
 .clear {
   clear: both;
 }
+
+#main_content {
+  width: 750px;
+  float: right;
+  background-color: white;
+}
+
+#main_content p:first-of-type {
+  color: #002562;
+  font-family: Myriad;
+  font-size: 14px;
+  margin: 0 12px;
+  padding: 6px 0;
+  border-bottom: 1px solid #CCCCFF;
+
+}
+
+#main_content p:first-of-type a {
+  text-decoration: none;
+}
+
+#main_content p:first-of-type a:hover {
+  text-decoration: underline;
+}
+
+#main_content h3 {
+  padding: 3px 12px 5px 12px;
+  margin: 0px 0px;
+}
