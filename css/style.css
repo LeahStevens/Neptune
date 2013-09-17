@@ -1,4 +1,5 @@
 
+
 body {
   background-image: url("../images/bg-top.png");
   background-position: top center;
@@ -49,3 +50,74 @@ body {
   padding: 3px 12px 5px 12px;
   margin: 0px 0px;
 }
+
+/*=================================*/
+/*++++++++++++ FOOTER ++++++++++++*/
+/*=================================*/
+#footer{
+  background-color:#1f304a;
+  width: 950px;
+  height: 128px;
+
+}
+#footer a {
+  color: #8999b1;
+  text-decoration: none;
+}
+#footer a:hover{
+  color:white;
+}
+
+#footer1{
+  font-size: 12px;
+  border-bottom: 1px solid grey;
+
+}
+#ulftitle{
+  list-style-type: none;
+  text-align: left;
+  padding-top: 10px;
+
+}
+#ulftitle li{
+  display: inline;
+  padding-right: 20px
+}
+
+#footer2{
+color:#8999b1;
+/*
+padding: 3px 3px 3px 3px; */
+}
+
+.footer-article{
+  font-size: 9px;
+  float:left;
+  padding: 1px 1px 1px 1px;
+}
+
+#flink1{
+  width: 298px;
+  float:left;
+}
+#flink2{
+  width: 282px;
+ float:left;
+}
+#flink3{
+  width: 195px;
+ float:left;
+}
+#flink4{
+  width: 158px;
+  float:left;
+}
+
+.footerul{
+   list-style-type: none;
+
+}
+
+/*=================================*/
+/*+++++++++ END FOOTER ++++++++++++*/
+/*=================================*/
