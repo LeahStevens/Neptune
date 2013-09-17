@@ -10,27 +10,50 @@
 {
 
   margin: -2px;
-
-.rleft_nav_sub > ul > li
-{
-  list-style: none;
 }
 
 
+li
+{
+  list-style: none;
+  right: 10px;
+}
+
 .rleft_nav_sub > ul > li > a
 {
+
 font-size: 12px;
 padding: 10px;
 font-family:Helvetica,Arial,sans-serif;
 text-align: left;
 color:rgb(147, 123, 158);
-background-color:
+padding: 10px;
 }
 
+.rnav_bottom
+{
 
+  width: 200px;
+  height: 600px;
+  float: left;
+  background-image: url(../images/leftnav_bottomshadow.png);
+  background-repeat: no-repeat;
+  background-color: blue;
+
+}
 
 .rsearchbox
 {
-  width: 50px;
+
+  background-image:url(../images/leftnav_searchbox_bg.png);
+  background-repeat: no-repeat;
+  height: 28px;
+  padding-top: 5px !important;
+  width: 155px;
+
+}
+
+.webby
+{
   float: left;
 }
