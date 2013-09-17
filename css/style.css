@@ -9,7 +9,7 @@ body {
   margin: auto;
 }
 
-header img {
+#top_banner {
   background-color: url("../images/bg-header-blue.png");
 }
 
