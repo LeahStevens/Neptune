@@ -1,0 +1,36 @@
+.rleft_nav
+{
+  background-color: purple;
+  width: 200px;
+  height: auto;
+  float: left;
+}
+
+.rnav_buttons > a img
+{
+
+  margin: -2px;
+
+.rleft_nav_sub > ul > li
+{
+  list-style: none;
+}
+
+
+.rleft_nav_sub > ul > li > a
+{
+font-size: 12px;
+padding: 10px;
+font-family:Helvetica,Arial,sans-serif;
+text-align: left;
+color:rgb(147, 123, 158);
+background-color:
+}
+
+
+
+.rsearchbox
+{
+  width: 50px;
+  float: left;
+}
