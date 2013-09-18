@@ -32,11 +32,11 @@ body {
   height: 128px;
 
 }
-a {
+#footer a {
   color: #8999b1;
   text-decoration: none;
 }
-a:hover{
+ #footer a:hover{
   color:white;
 }
 
@@ -92,4 +92,91 @@ padding: 3px 3px 3px 3px; */
 
 /*=================================*/
 /*+++++++++ END FOOTER ++++++++++++*/
+/*=================================*/
+
+
+/*=================================*/
+/*+++++++++ Boxes of info +++++++++*/
+/*=================================*/
+
+#boxes{
+  width:720px;
+ background-color: white;
+}
+
+#ahrefgrey{
+ text-decoration: none;
+ color: grey;
+}
+#boxes a{
+color: #00368d;
+text-decoration: none;
+}
+
+
+#boxes ul{
+  list-style-type: none;
+  background-color: white;
+
+}
+#boxes li{
+  background-color: #d4deeb;
+  border: 1px solid white;
+}
+
+#boxes1{
+ width: 350px;
+ float: left;
+ font-family: helvetica;
+
+ }
+
+#bggold{
+  color:white;
+  background-image:url("../images/bg-header-gold.png");
+
+}
+#bgblue1{
+   color:white;
+  background-image:url("../images/bg-header-blue (1).png");
+}
+
+#boxes2{
+  width: 350px;
+  float: right;
+}
+#bgred{
+   color:white;
+  background-image:url("../images/bg-header-red.png");
+}
+#bggreen{
+   color:white;
+  background-image:url("../images/bg-header-green.png");
+}
+#kuiper{
+  width:100px;
+  float:right;
+}
+#greyhref a{
+ color: grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*=================================*/
+/*++++++ End Boxes of info ++++++++*/
 /*=================================*/
