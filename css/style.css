@@ -22,7 +22,7 @@ body {
 
 #main_content {
   width: 750px;
-  float: right;
+  float: left;
   background-color: white;
   border-top-right-radius: 20px;
 }
