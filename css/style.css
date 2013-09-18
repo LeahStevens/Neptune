@@ -26,6 +26,7 @@ body {
   width: 750px;
   float: right;
   background-color: white;
+  border-top-right-radius: 20px;
 }
 
 #main_content p:first-of-type {
@@ -97,14 +98,44 @@ body {
 
 #tabs2 #Overview {
   padding-left: 50px;
+  padding-bottom: 7px;
   color: #59A6E9;
   background-color: white;
   border-top-left-radius: 16px;
+  border-bottom: none;
+  box-shadow: 3px 0px 1px #B8C7DB;
 }
 
 #tabs1 span:hover, #tabs2 span:hover {
   color: #59A6E9;
 }
+
+#blue {
+  width: 750px;
+  background-color: #D4DEEB;
+}
+
+#white {
+  background-color: white;
+  width: 732px;
+  margin: auto;
+}
+
+figure {
+  border: 1px solid #59A6E9;
+  margin: 10px 5px 5px 5px;
+  padding: 5px;
+}
+
+figcaption {
+  width: 708px;
+  margin: auto;
+  font-family: Helvetica;
+  font-size: 11px;
+  color: #165AAE;
+}
+
+
 
 
 
